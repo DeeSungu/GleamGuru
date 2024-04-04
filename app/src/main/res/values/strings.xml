@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">GleamGuru</string>
+    <string name="note">Flexible pricing: Choose between \'Per Kilogram\' and \'Per Item\' pricing when making laundry cleaning orders.</string>
+    <string-array name="general">
+        <item> Our Price List</item>
+        <item>Trench Coat  @     350</item>
+        <item>Trouser         @     200 </item>
+        <item>Shirts            @     150 </item>
+        <item>Vest              @      60 </item>
+        <item>Shorts            @     100 </item>
+        <item>Jackets          @     140 </item>
+        <item>Suits              @     260 </item>
+        <item>Full bucket     @     600 </item>
+        <item>1 kg  clothes   @     450 </item>
+    </string-array>
+
+    <string-array name="bedddings">
+        <item> Our Price List</item>
+        <item>Duvet King          @     700</item>
+        <item>Duvet Queen        @     600 </item>
+        <item>Blanket                @     700 </item>
+        <item>Mattress cover     @     360 </item>
+        <item>Bedsheet 6*6       @     200 </item>
+        <item>Bedsheet 5*6       @     150 </item>
+        <item>Bedsheet 5*6       @     150 </item>
+        <item>Pillows                @     400 </item>
+    </string-array>
+
+    <string-array name="household">
+        <item> Our Price List</item>
+        <item>Carpets big size        @     800</item>
+        <item>Carpets small size     @     600 </item>
+        <item>mats                        @     200 </item>
+        <item>Curtains Per Kg       @     360 </item>
+        <item>Sheers Per Kg          @     200 </item>
+
+    </string-array>
+</resources>
